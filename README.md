@@ -8,5 +8,4 @@ Uma landing page criada para blogs, visando a pratica com HTML, CSS e Javascript
 - ``CSS``
 - ``JS``
 
-## 📁 Acesso ao Template do projeto
-Você pode visualizar o template do projeto clicando [aqui](https://www.figma.com/file/r4CsL6MPTAvE7EvJXjhFK4/DD-RocketBlog/duplicate).
+
