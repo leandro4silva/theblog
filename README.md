@@ -6,7 +6,7 @@ Uma landing page criada para blogs, responsivo para mobile, visando a pratica co
 - ``CSS``
 - ``JS``
 
-## :briefcase: Preview Desktop
+## :open_file_folder: Preview Desktop
 ![theblog-image](https://user-images.githubusercontent.com/91700989/176552718-1b979286-e872-4e5d-a817-9ab5163c6e58.png)
 
 
