@@ -349,6 +349,7 @@ section#home{
 }
 
 
+
 @media (min-width: 1200px){
 
 
@@ -479,7 +480,7 @@ section#home{
 
     #post-footer-3{
         background-image:linear-gradient(104.9deg, rgba(208, 61, 211, 0.5) -2.03%, rgba(195, 38, 228, 0.5) 27.04%, rgba(139, 42, 209, 0.5) 67.97%, rgba(92, 44, 193, 0.5) 107.39%),
-        url('assets/imagem/unsplash-blog-img4.png');
+        url('../../assets/imagem/unsplash-blog-img4.png');
         background-size: cover; 
         height: 16.16rem;
     }
