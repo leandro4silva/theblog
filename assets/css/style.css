@@ -39,7 +39,7 @@ img{
 }
 
 nav ul li a::before{
-  content:  url("/assets/icons/ative-menu.svg");
+  content:  url("assets/icons/ative-menu.svg");
   opacity: 0;
   visibility: hidden;
   position: relative;
@@ -321,7 +321,7 @@ section#home{
 }
 
 #image-blog{
-    background: var(--gradient--color),url('/assets/imagem/unsplash-blog-img1.png');
+    background: var(--gradient--color),url('assets/imagem/unsplash-blog-img1.png');
     background-size: cover; 
     width: 100%;
     height: 20.16rem;
@@ -329,21 +329,21 @@ section#home{
 
 #post-footer-1{
     background-image:linear-gradient(104.9deg, rgba(239, 35, 243, 0.5) -2.03%, rgba(195, 38, 228, 0.5) 27.04%, rgba(139, 42, 209, 0.5) 67.97%, rgba(92, 44, 193, 0.5) 107.39%),
-    url('/assets/imagem/unspash-blog-img2.png');
+    url('assets/imagem/unspash-blog-img2.png');
     background-size: cover; 
     height: 16.16rem;
 }
 
 #post-footer-2{
     background-image:linear-gradient(104.9deg, rgba(239, 35, 243, 0.5) -2.03%, rgba(195, 38, 228, 0.5) 27.04%, rgba(139, 42, 209, 0.5) 67.97%, rgba(92, 44, 193, 0.5) 107.39%),
-    url('/assets/imagem/unsplash-blog-img3.png');
+    url('assets/imagem/unsplash-blog-img3.png');
     background-size: cover; 
     height: 16.16rem;
 }
 
 #post-footer-3{
     background-image:linear-gradient(104.9deg, rgba(208, 61, 211, 0.5) -2.03%, rgba(195, 38, 228, 0.5) 27.04%, rgba(139, 42, 209, 0.5) 67.97%, rgba(92, 44, 193, 0.5) 107.39%),
-    url('/assets/imagem/unsplash-blog-img4.png');
+    url('assets/imagem/unsplash-blog-img4.png');
     background-size: cover; 
     height: 16.16rem;
 }
@@ -457,7 +457,7 @@ section#home{
 
 
     #image-blog{
-        background: var(--gradient--color),url('/assets/imagem/unsplash-blog-img1.png');
+        background: var(--gradient--color),url('assets/imagem/unsplash-blog-img1.png');
         background-size: cover; 
         width: 100%;
         height: 20.16rem;
@@ -465,21 +465,21 @@ section#home{
 
     #post-footer-1{
         background-image:linear-gradient(104.9deg, rgba(239, 35, 243, 0.5) -2.03%, rgba(195, 38, 228, 0.5) 27.04%, rgba(139, 42, 209, 0.5) 67.97%, rgba(92, 44, 193, 0.5) 107.39%),
-        url('/assets/imagem/unspash-blog-img2.png');
+        url('assets/imagem/unspash-blog-img2.png');
         background-size: cover; 
         height: 16.16rem;
     }
 
     #post-footer-2{
         background-image:linear-gradient(104.9deg, rgba(239, 35, 243, 0.5) -2.03%, rgba(195, 38, 228, 0.5) 27.04%, rgba(139, 42, 209, 0.5) 67.97%, rgba(92, 44, 193, 0.5) 107.39%),
-        url('/assets/imagem/unsplash-blog-img3.png');
+        url('assets/imagem/unsplash-blog-img3.png');
         background-size: cover; 
         height: 16.16rem;
     }
 
     #post-footer-3{
         background-image:linear-gradient(104.9deg, rgba(208, 61, 211, 0.5) -2.03%, rgba(195, 38, 228, 0.5) 27.04%, rgba(139, 42, 209, 0.5) 67.97%, rgba(92, 44, 193, 0.5) 107.39%),
-        url('/assets/imagem/unsplash-blog-img4.png');
+        url('assets/imagem/unsplash-blog-img4.png');
         background-size: cover; 
         height: 16.16rem;
     }
