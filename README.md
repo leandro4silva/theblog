@@ -1,12 +1,15 @@
-# Resumo do projeto
-Uma landing page criada para blogs, responsivo para mobile, visando a pratica com HTML, CSS e Javascript. 
+# Landing page
 
-## ✔️ Tecnologias Utilizadas
+A landing page created for blogs that will contain posts about technologies.
+
+## ✔️ Technologies
 - ``HTML``
 - ``CSS``
 - ``JS``
 
-## :open_file_folder: Preview Desktop
-![theblog-image](https://user-images.githubusercontent.com/91700989/176552718-1b979286-e872-4e5d-a817-9ab5163c6e58.png)
+## :open_file_folder: Preview
+To access the live preview of this project, just click on this [link](https://leandro4silva.github.io/theblog/).
+
+
 
 
